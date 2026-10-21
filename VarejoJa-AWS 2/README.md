@@ -67,13 +67,13 @@ VarejoJa-AWS/
 
 | Integrante | Papel no projeto | LinkedIn |
 |---|---|---|
-| Ingrid | Liderança ágil | [adicionar link](https://www.linkedin.com/in/SEU-USUARIO) |
-| Jamilly | Estratégia de migração | [adicionar link](https://www.linkedin.com/in/SEU-USUARIO) |
-| Guilherme | Jornada e documentação | [adicionar link](https://www.linkedin.com/in/SEU-USUARIO) |
-| Bruno | Seleção de serviços AWS | [adicionar link](https://www.linkedin.com/in/SEU-USUARIO) |
-| Marjorie | Diagrama de arquitetura | [adicionar link](https://www.linkedin.com/in/SEU-USUARIO) |
-| Paulo | Estimativa de custos | [adicionar link](https://www.linkedin.com/in/SEU-USUARIO) |
-| Erick | Capacidade e escala | [adicionar link](https://www.linkedin.com/in/SEU-USUARIO) |
+| Ingrid | Liderança ágil | [adicionar link](https://www.linkedin.com/in/ingridpereira1/) |
+| Jamilly | Estratégia de migração | [adicionar link](https://www.linkedin.com/in/005jamilly/) |
+| Guilherme | Jornada e documentação | [adicionar link](https://www.linkedin.com/in/guilhermoreiraa/) |
+| Bruno | Seleção de serviços AWS | [adicionar link](https://www.linkedin.com/in/bruno-otto-cavalcante-vieira/) |
+| Marjorie | Diagrama de arquitetura | [adicionar link](https://www.linkedin.com/in/marjoriejds/) |
+| Paulo | Estimativa de custos | [adicionar link](https://www.linkedin.com/in/pauloalmeidapinto/) |
+| Erick | Capacidade e escala | [adicionar link](https://www.linkedin.com/in/alexandrerick/) |
 
 ---
 
